@@ -4,32 +4,47 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="index.css">
   <title>Unit Converter</title>
 </head>
 <body>
   <div class="container">
-    <h1> ⚖️ Metric/Imperial Unit Converter ⚖️</h1>
-    <div class = "input-section">
-      <input type="number" id="input-number" placeholder="Enter a number" />
-      <button id="convert-btn">Convert</button>
+
+    <div class="hero">
+      <h1> ⚖️ Metric/Imperial Unit Converter ⚖️</h1>
+        <div class = "input-section">
+            <input type="number" id="input-number" placeholder="0" />
+            <button id="convert-btn">Convert</button>
+        </div>
     </div>
+
     <div class="results-section">
       <div class="conversion-result" id="length-result">
         <h3> Length (Meter/Feet)</h3>
-        <p id="length-output"></p>
+        <p id="length-output">20 meters = 65.616 feet | 20 feet = 6.096 meters</p>
       </div>
       <div class="conversion-result" id="volume-result">
         <h3> Volume (Liters/Gallons)</h3>
-        <p id="volume-output"></p>
+        <p id="volume-output">placeholder text</p>
       </div>
       <div class="conversion-result" id="mass-result">
         <h3> Mass (Kilograms/Pounds)</h3>
-        <p id="mass-output"></p>
+        <p id="mass-output">placeholder text</p>
       </div>
     </div>
   </div>
+
+  <footer> 
+    This project was coded by <a href="https://github.com/StephieOj" target="_blank"rel='noopener noreferrer'> <strong>Stephie Oj 💕</strong></a>  and is <a href="https://github.com/StephieOj/unit-converter" target="_blank"rel='noopener noreferrer'> <strong>open-sourced on GitHub</strong> </a> and is hosted on <a href="https://stephieoj-unit-converter.netlify.app/" target="_blank" rel='noopener noreferrer'> <strong>Netlify</strong></a>
+    <br />
+    <br />
+    <img class="stephie" src="stephieoj.png" alt="stephieoj" height="80" width="80" />
+  </footer>
+
   
-  <script src="index.js"></script>
+<script src="index.js"></script>
 </body>
 </html>
