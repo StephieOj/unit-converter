@@ -1,6 +1,8 @@
 # ⚖️ Metric/Imperial Unit Converter
 
-<img width="500" height="" alt="Image" src="/Users/stephieojinta/Desktop/Repos/scrimba/unit-converter/unit-converter.png"/>
+<img width="500" height="" alt="Image" src= "unit-converter.png" />
+
+
 ---
 
 ## 🌐 Live Demo
