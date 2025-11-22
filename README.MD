@@ -1,13 +1,12 @@
-# ⚖️ Metric/Imperial Unit Converter
+# ⚖️ Metric/Imperial Unit Converter ⚖️
 
-<img width="500" height="650" alt="Image" src= "unit-converter.png" />
-
+<img width="500" height="650" alt="Image" src="unit-converter.png" />
 
 ---
 
 ## 🌐 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-6943FF)](https://stephieoj-unit-converter.netlify.app/")
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-6943FF)](https://stephieoj-unit-converter.netlify.app/)
 
 ---
 
