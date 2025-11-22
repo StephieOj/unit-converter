@@ -25,8 +25,11 @@ input  {
   font-weight: 800;
   border: 2px solid #B295FF;
   border-radius: 4px;
-  width: 80px;
-  padding-left: 18px;
+  width: 130px;
+  height: 83px;
+  text-align: center;
+  margin: 20px auto;
+  
 }
 input::placeholder {
   color: white;
@@ -44,6 +47,10 @@ button {
   cursor: pointer;
   display: flex;
   margin: 20px auto;
+  width: 150px;
+  font-weight: 600;
+  justify-content: center;
+  border-radius: 50px;
 }
 
 button:hover {
