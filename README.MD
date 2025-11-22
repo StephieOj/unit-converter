@@ -1,6 +1,6 @@
 # ⚖️ Metric/Imperial Unit Converter
 
-<img width="500" height="" alt="Image" src= "unit-converter.png" />
+<img width="500" height="650" alt="Image" src= "unit-converter.png" />
 
 
 ---
