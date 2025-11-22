@@ -1,4 +1,4 @@
-# ⚖️ Metric/Imperial Unit Converter ⚖️
+# ⚖️ Metric/Imperial Unit Converter
 
 <img width="500" height="650" alt="Image" src="unit-converter.png" />
 
